@@ -1,0 +1,8 @@
+/home/ben/coding/cpp/sdlTesting/build/CMakeFiles/main.dir
+/home/ben/coding/cpp/sdlTesting/build/CMakeFiles/edit_cache.dir
+/home/ben/coding/cpp/sdlTesting/build/CMakeFiles/rebuild_cache.dir
+/home/ben/coding/cpp/sdlTesting/build/lib/SDL/CMakeFiles/SDL3-shared.dir
+/home/ben/coding/cpp/sdlTesting/build/lib/SDL/CMakeFiles/SDL3_test.dir
+/home/ben/coding/cpp/sdlTesting/build/lib/SDL/CMakeFiles/SDL_uclibc.dir
+/home/ben/coding/cpp/sdlTesting/build/lib/SDL/CMakeFiles/edit_cache.dir
+/home/ben/coding/cpp/sdlTesting/build/lib/SDL/CMakeFiles/rebuild_cache.dir
